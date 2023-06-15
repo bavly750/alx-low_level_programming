@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc input.c main -o output.o
+gcc input.c main output.o
