@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc input.c $CFILE,output.o
+gcc input.c main -o output.o
