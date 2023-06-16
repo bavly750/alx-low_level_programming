@@ -1,19 +1,19 @@
+
 #include <stdio.h>
 
 /**
- * main - Prints all possible combinations of two different digits,
- *        in ascending order, separated by a comma followed by a space.
+ * main - Prints the lowercase alphabet in reverse.
  *
  * Return: Always 0.
  */
-
 int main(void)
 {
-	char = letter;
-	for (letter = 'z'; 'z' > 'a'; letter--);
-       putchar (letter);	
+	char letter;
 
-       putchat ("\n")
-	       return (0);
+	for (letter = 'z'; letter >= 'a'; letter--)
+		putchar(letter);
+
+	putchar('\n');
+
+	return (0);
 }
-
