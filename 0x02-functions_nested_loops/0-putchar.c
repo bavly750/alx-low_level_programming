@@ -1,9 +1,8 @@
 #include "main.h"
 /**
-  *idk man
-  *this is weird for me
-  *idk how this bety works
-  **/
+ * main - Print _putchar
+ * Return: Always 0
+ */
 int main(void)
 {
 	printf ("_putchar\n");
