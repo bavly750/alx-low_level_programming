@@ -5,8 +5,10 @@
  */
 void print_alphabet(void)
 {
-	char = 'a'
-	while (chat < 'z');
-	_putchar ('char', char ++);
-return (0);
+	char letter;
+
+	for (letter = 'a'; letter <= 'z'; letter++)
+		_putchar(letter);
+
+	_putchar('\n');
 }
