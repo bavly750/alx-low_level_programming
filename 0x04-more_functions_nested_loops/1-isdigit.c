@@ -1,6 +1,6 @@
 #include "main.h"
 
-int _isdigit(int c);
+int _isdigit(int c)
 {
 	if (c >= '0'; && c =< '9';){
 	printf ("c is valid %d",c);
