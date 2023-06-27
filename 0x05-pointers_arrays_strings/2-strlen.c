@@ -8,6 +8,9 @@
  */
 int _strlen(char *s)
 {
-	int n = 0;
-	printf("%p", n);
+	int a = 0;
+
+	for (; *s++;)
+		a++;
+	return (a);
 }
