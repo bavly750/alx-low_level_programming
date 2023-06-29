@@ -23,7 +23,3 @@ char *leet(char *s)
 	return (s);
 }
 /* Doing hard things is a must */
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
